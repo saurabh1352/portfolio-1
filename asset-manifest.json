@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio-1/static/css/main.b670c62c.css",
+    "main.js": "/portfolio-1/static/js/main.9fcb8ea1.js",
+    "static/media/moon.jpg": "/portfolio-1/static/media/moon.ec9d16757c33a83a4e2f.jpg",
+    "static/media/venus.jpg": "/portfolio-1/static/media/venus.c093898c8e79f21d8154.jpg",
+    "static/media/Paytm_Logo.png": "/portfolio-1/static/media/Paytm_Logo.401ebb8cf68985478b71.png",
+    "static/media/space.jpg": "/portfolio-1/static/media/space.167f7b1f3402562b8e43.jpg",
+    "index.html": "/portfolio-1/index.html",
+    "main.b670c62c.css.map": "/portfolio-1/static/css/main.b670c62c.css.map",
+    "main.9fcb8ea1.js.map": "/portfolio-1/static/js/main.9fcb8ea1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b670c62c.css",
+    "static/js/main.9fcb8ea1.js"
+  ]
+}
